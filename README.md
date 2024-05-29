@@ -5,7 +5,7 @@
 ---
 
 ## 一、Sentiment Analysis of Hotel Reviews and Twitter Posts
-### sentimentanalysis.py
+## sentimentanalysis.py
 
 程式中使用各種自然語言處理（NLP）套件（TextBlob、NLTK、EmoLex、VADER、BERT、MultinomialNB）對 Hotel Reviews 和 Twitter Posts 進行情感分析。
 
@@ -96,16 +96,16 @@ pip install pandas seaborn matplotlib nltk textblob NRCLex vaderSentiment transf
 ---
 
 ## 二、Sentiment Analysis with Embeddings
-### SentimentAnalysis_Embedding.py
+## SentimentAnalysis_Embedding.py
 
 使用 sentence embeddings 和簡單神經網絡模型對 Twitter 資料進行情感分析。
 
 ## 目錄
 
-- [使用套件](#使用套件)
-- [分析流程](#分析流程)
+- [使用套件](#套件)
+- [分析流程](#程式流程)
 
-## 使用套件
+## 套件
 
 安裝以下套件：
 
@@ -121,7 +121,7 @@ pip install pandas seaborn matplotlib nltk textblob NRCLex vaderSentiment transf
 pip install numpy pandas pickle seaborn scikit-learn torch sentence-transformers
 ```
 
-## 分析流程
+## 程式流程
 
 1. **Twitter資料**
 
