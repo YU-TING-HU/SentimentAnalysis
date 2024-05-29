@@ -2,7 +2,6 @@
 
 跳至 [二、Sentiment Analysis with Embeddings](#SentimentAnalysis_Embedding.py)
 
----
 
 ## 一、Sentiment Analysis of Hotel Reviews and Twitter Posts
 ## sentimentanalysis.py
