@@ -1,4 +1,5 @@
 跳至 [一、Sentiment Analysis of Hotel Reviews and Twitter Posts](#sentimentanalysis.py)
+
 跳至 [二、](#SentimentAnalysis_Embedding.py)
 ---
 
