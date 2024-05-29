@@ -1,7 +1,8 @@
-跳至 [一、Sentiment Analysis of Hotel Reviews and Twitter Posts](#sentimentanalysis.py)
+跳至 [一、Sentiment Analysis of Hotel Reviews and Twitter Posts](#一sentiment-analysis-of-hotel-reviews-and-twitter-posts)
 
-跳至 [二、Sentiment Analysis with Embeddings](#SentimentAnalysis_Embedding.py)
+跳至 [二、Sentiment Analysis with Embeddings](#二sentiment-analysis-with-embeddings)
 
+---
 
 ## 一、Sentiment Analysis of Hotel Reviews and Twitter Posts
 ## sentimentanalysis.py
